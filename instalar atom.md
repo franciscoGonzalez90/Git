@@ -1,4 +1,4 @@
-###Comando para la instalacion de Atom en ubuntu 14.04
+##Comando para la instalacion de Atom en ubuntu 14.04
 
 **agregar el repositorio para la instalacion de Atom**
 
