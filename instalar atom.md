@@ -2,12 +2,12 @@
 
 **agregar el repositorio para la instalacion de Atom**
 
-sudo add-apt-repository ppa:webupd8team/atom
+> sudo add-apt-repository ppa:webupd8team/atom
 
 **Actualizar la lista del repositorio**
 
-sudo apt-get update
+> sudo apt-get update
 
 **instalar atom**
 
-sudo apt-get install atom
+> sudo apt-get install atom
